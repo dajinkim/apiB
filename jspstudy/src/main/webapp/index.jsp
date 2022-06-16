@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1 style = "text-align:center;">메인 페이지 git test1111</h1>
+	<h1 style = "text-align:center;">메인 페이지 git test111122222</h1>
 	
     <hr>
     <a href = "<%=request.getContextPath() %>/member/memberList.do">회원리스트</a>
